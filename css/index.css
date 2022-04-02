@@ -51,7 +51,7 @@
 
 #calc_display {
   text-align: end;
-
+   display: grid;
   font-weight: 400;
   font-size: 3.6rem;
 
